@@ -4,7 +4,7 @@ Hi 👋, I'm @xaramillo, a cool data-oriented python developer from Mexico.
 
 - 🔭 I’m currently working on **Necodex LLC**
 
-- 🌱 I’m currently learning **Terraform** and **Snowflake**
+- 🌱 I’m currently learning **Terraform** and **Kubernetes**
 
 - 👯 I’m looking to collaborate on **Generative AI** and **Bioinformatics**
 
