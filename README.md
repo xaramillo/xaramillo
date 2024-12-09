@@ -1,6 +1,6 @@
 # ML / AI Engineer
 
-Hi 👋, I'm @xaramillo, a cool data-oriented python developer from Mexico.
+Hi 👋, I'm [@xaramillo](github.com/xaramillo), a cool AI/ML Engineer and data-oriented Python developer from Mexico.
 
 - 🔭 I’m currently working on **Necodex LLC**
 
