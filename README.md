@@ -15,6 +15,7 @@ Hi 👋, I'm [@xaramillo](github.com/xaramillo), a cool AI/ML Engineer and data-
   - [PyPI](https://pypi.org/user/xaramillo/)
   - [HuggingFace](https://huggingface.co/xaramillo)
   - [LinkedIn](https://linkedin.com/in/xaramillo)
+  - [Kaggle](https://kaggle.com/xaramillo)
 
 <!---
 <p align="left">
