@@ -2,15 +2,19 @@
 
 Hi 👋, I'm [@xaramillo](github.com/xaramillo), a cool AI/ML Engineer and data-oriented Python developer from Mexico.
 
-- 🔭 I’m currently working on **Necodex LLC**
+🔭 I’m currently working on **Necodex LLC**
 
-- 🌱 I’m currently learning **Terraform** and **Kubernetes**
+🌱 I’m currently learning **Terraform** and **Kubernetes**
 
-- 👯 I’m looking to collaborate on **Generative AI** and **Bioinformatics**
+👯 I’m looking to collaborate on **Generative AI** and **Bioinformatics**
 
-- 💬 Ask me about **Python** and any data-driven projects you are working on
+💬 Ask me about **Python** and any data-driven projects you are working on
 
-- 📫 Reach me: 
+📫 Reach me: 
+
+  - [PyPI](https://pypi.org/user/xaramillo/)
+  - [HuggingFace](https://huggingface.co/xaramillo)
+  - [LinkedIn](https://linkedin.com/in/xaramillo)
 
 <!---
 <p align="left">
