@@ -1,25 +1,37 @@
 # ML / AI Engineer
 
-Hi 👋, I'm [@xaramillo](github.com/xaramillo), a cool AI/ML Engineer and data-oriented Python developer from Mexico.
+Hi 👋, I'm [@xaramillo](github.com/xaramillo), a cool **Python Data & ML/AI Engineer | Bioinformatician | Cloud Enthusiast** from Mexico.
 
-🔭 I’m currently working on **Necodex LLC**
+I'm a passionate developer with over 8 years of experience building intelligent systems at the intersection of data, machine learning, and cloud computing. My journey has taken me from decoding the language of genomes with bioinformatics to engineering scalable ML pipelines and leveraging the latest in Generative AI.
 
-🌱 I’m currently learning **Terraform** and **Kubernetes**
+I thrive on architecting end-to-end solutions—from data extraction and processing to model training, deployment, and MLOps—ensuring they are robust, scalable, and deliver real-world value.
 
-👯 I’m looking to collaborate on **Generative AI** and **Bioinformatics**
+### 🛠️ Tech & Tools Panorama
 
-💬 Ask me about **Python** and any data-driven projects you are working on
+*   **🧪 Core Languages:** Python, SQL, R, Shell
+*   **☁️ Cloud Platforms:** Google Cloud (GCP), Microsoft Azure, AWS, Databricks
+*   **🤖 Machine Learning:** Scikit-learn, TensorFlow, Keras, XGBoost, NLP (spaCy, NLTK, BERT, OpenAI)
+*   **📊 Data Engineering:** PySpark, Airflow, MLflow, ZenML, Docker, APIs (FastAPI/Flask)
+*   **🧬 Bioinformatics:** NGS Pipelines, GWAS, Genomic Data Analysis, Snakemake
+*   **🛠️ DevOps & CI/CD:** GitHub Actions, Terraform, Kubernetes, Railway
 
-📫 Reach me: 
+### 🌟 What I'm Up To
+
+*   Designing and implementing scalable ML workflows and data pipelines.
+*   Exploring the frontiers of Generative AI, LLM fine-tuning, and RAG systems.
+*   Building and automating infrastructure with a DevOps mindset (IaC, CI/CD).
+*   Contributed to various projects involving computer vision, predictive modeling, and semantic search.
+
+### 📫 Reach me
+
+I'm always open to discussing new projects, ideas, or opportunities.
 
   - [PyPI](https://pypi.org/user/xaramillo/)
   - [HuggingFace](https://huggingface.co/xaramillo)
   - [LinkedIn](https://linkedin.com/in/xaramillo)
   - [Kaggle](https://kaggle.com/xaramillo)
 
-<!---
-<p align="left">
-<a href="https://linkedin.com/in/xaramillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xaramillo" height="30" width="40" /></a>
-<a href="https://kaggle.com/xaramillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xaramillo" height="30" width="40" /></a>
-</p>
--->
+---
+
+![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xaramillo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaramillo&layout=compact&theme=radical)
