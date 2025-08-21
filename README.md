@@ -34,7 +34,7 @@ I'm always open to discussing new projects, ideas, or opportunities.
 
 ### 🎧 Currently Listening To
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12175157842)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12175157842&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
