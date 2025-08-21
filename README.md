@@ -34,7 +34,7 @@ I'm always open to discussing new projects, ideas, or opportunities.
 
 ### 🎧 Currently Listening To
 
-[![Spotify](https://spotify-readme-xi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12175157842)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12175157842)
 
 ---
 
