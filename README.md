@@ -32,11 +32,14 @@ I'm always open to discussing new projects, ideas, or opportunities.
   - [LinkedIn](https://linkedin.com/in/xaramillo)
   - [Kaggle](https://kaggle.com/xaramillo)
 
+### 📊 Stats
+
+![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xaramillo&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaramillo&layout=compact&theme=radical)
+
 ### 🎧 Currently Listening To
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12175157842&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
-
-![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xaramillo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaramillo&layout=compact&theme=radical)
