@@ -11,6 +11,7 @@ I thrive on architecting end-to-end solutions—from data extraction and process
 *   **🧪 Core Languages:** Python, SQL, R, Shell
 *   **☁️ Cloud Platforms:** Google Cloud (GCP), Microsoft Azure, AWS, Databricks
 *   **🤖 Machine Learning:** Scikit-learn, TensorFlow, Keras, XGBoost, NLP (spaCy, NLTK, BERT, OpenAI)
+*   **✨ Generative AI:** LLM Fine-Tuning, RAG, OpenAI API, LangChain, HuggingFace, Ollama, Vertex AI
 *   **📊 Data Engineering:** PySpark, Airflow, MLflow, ZenML, Docker, APIs (FastAPI/Flask)
 *   **🧬 Bioinformatics:** NGS Pipelines, GWAS, Genomic Data Analysis, Snakemake
 *   **🛠️ DevOps & CI/CD:** GitHub Actions, Terraform, Kubernetes, Railway
@@ -30,6 +31,10 @@ I'm always open to discussing new projects, ideas, or opportunities.
   - [HuggingFace](https://huggingface.co/xaramillo)
   - [LinkedIn](https://linkedin.com/in/xaramillo)
   - [Kaggle](https://kaggle.com/xaramillo)
+
+### 🎧 Currently Listening To
+
+[![Spotify](https://spotify-readme-xi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12175157842)
 
 ---
 
